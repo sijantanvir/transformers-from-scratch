@@ -28,9 +28,9 @@ src/
 
 ## Components
 
-- [x]  **Custom Data Loader**
+- [x] **Custom Data Loader**
 - [x] **01 — Tokenization**
-- [ ] **02 — Embedding Layer**
+- [x] **02 — Embedding Layer**
 - [ ] **03 — Positional Encoding**
 - [ ] **04 — Scaled Dot-Product Attention**
 - [ ] **05 — Multi-Head Attention**
